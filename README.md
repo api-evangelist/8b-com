@@ -66,7 +66,7 @@
 
 8B provides a free website builder that requires no sign‑up, allowing users to create real websites from a single sentence. The platform offers an easy‑to‑use interface, multilingual support, and a variety of themes, all hosted on a fast CDN. It targets individuals and small businesses seeking a quick online presence without the hassle of accounts or templates, emphasizing privacy and simplicity.
 
-**Areas:** Company · WebsiteBuilder · NoSignUp · Free · SmallBusiness
+**Areas:** Company · Website Builder · No Sign Up · Free · Small Business
 
 ## 8B on APIs.io
 
@@ -76,17 +76,23 @@ Everything profiled for 8B is published on APIs.io rather than in this repositor
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [8b-com-mcp.yml](https://apis.io/servers/8b-com/8b-com-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [8B Com Domain Security](https://apis.io/security/8b-com/8b-com-domain-security/)
+- [8B Domain Security](https://apis.io/security/8b-com/8b-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [8B Com Plans Pricing](https://apis.io/plans/8b-com/8b-com-plans-pricing/)
+- [8B Plans Pricing](https://apis.io/plans/8b-com/8b-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -101,18 +107,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 19.0** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 17.2** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.3 |
+| Discoverability | 46.7 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 21.4 |
-| Access clarity | 50.5 |
+| Access clarity | 46.8 |
 
-**Agent readiness 6.0** — agent-aware
+**Agent readiness 4.4** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -127,8 +133,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | yes |
-| Consent Identity | — |
+| Well Known Catalog | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -137,8 +143,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/8b-com/](https://apis.io/providers/8b-com/).
 
